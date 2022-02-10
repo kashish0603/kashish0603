@@ -15,10 +15,10 @@
 
 ### Connect with me:
   
-[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>][twitter]
+[<img align="left" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
+[<img align="left" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>][linkedin]
+[<img align="left" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png"/>][kaggle]
 <br />
 
 ### Languages and Tools Known:
@@ -44,12 +44,12 @@
 <br />
 <br />
 
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashish0603&show_icons=true&theme=radical)
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashish0603&show_icons=true&theme=dark)
 
 [twitter]: https://twitter.com/Kashish0603
 [instagram]: https://www.instagram.com/malivore_2021/
 [linkedin]: http://linkedin.com/in/kashish-jain-681983220
-
+[kaggle]: https://www.kaggle.com/kashish0603
 <!---
 kashish0603/kashish0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
