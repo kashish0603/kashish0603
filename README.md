@@ -1,23 +1,54 @@
-## HELLO THERE!! 👋
-- 👋 Hi, I’m Kashish
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning basics of Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me:
-- LinkedIn : http://linkedin.com/in/kashish-jain-681983220 🔗
-- I know basics of Front-End Development and learning Back-end Development with SQL,Python and Java
-- Beside coding I enjoy travelling 🚡 🚆 and playing guitar 🎸
-### Goals of 2022
-- Grab the basics of Backend Development and Machine Learning 💻
-- Advance in Frontend Development 
-- ✈️ Travel to Dubai
-- Try to have a life 
-### Skills 🙌
-- Java 
-- Python
-- HTML and CSS
-- JavaScript
-- SQL
+### Hey, I'm Kashish Jain👋
+
+## I'm a Student, ML Enthusiast and Explorer!!
+
+- 🔭 BTech Fresher, Computer Science and Technology! 😀
+- ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 🥅 2022 Goals: 
+<ol>
+  <li> Be a master of Frontend and Backend Development, and Machine Learning.
+  </li>
+  <li>Travel to Dubai ✈️</li>
+  <li> Try to have a life 🥬</li>
+
+
+### Connect with me:
+  
+[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools Known:
+
+<a href="https://icons8.com/icon/XPdRFanRZtNK/django"></a>
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Numpy" width="26px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/ios-filled/2x/c-plus-plus-logo.png"/>  
+<img align="left" alt="Anaconda" width="26px" src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+<img align="left" alt="Matlab" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Django" width="26px" src="https://img.icons8.com/ios-filled/50/000000/django.png" />  
+
+<br />
+<br />
+
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashish0603&show_icons=true&theme=radical)
+
+[twitter]: https://twitter.com/Kashish0603
+[instagram]: https://www.instagram.com/malivore_2021/
+[linkedin]: http://linkedin.com/in/kashish-jain-681983220
 
 <!---
 kashish0603/kashish0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
