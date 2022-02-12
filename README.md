@@ -4,6 +4,8 @@
 
 ## I'm a Student, ML Enthusiast and Explorer!!
 
+![](https://komarev.com/ghpvc/?username=your-github-kashish0603&color=blue)
+
 - 🔭 BTech Fresher, Computer Science and Technology! 😀
 - ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
 - 👯 I’m looking to collaborate with other content creators and developers.
