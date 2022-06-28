@@ -1,6 +1,6 @@
 ### Hey, I'm Kashish Jain👋
 <h2>Welcome to my GitHub</h2>
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif' width='200"'>  
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif' width='200'>  
 
 ## I'm a Student, ML Enthusiast and Explorer!!
 
@@ -9,7 +9,7 @@
 - 🔭 BTech Fresher, Computer Science and Technology! 😀
 - ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
 - 👯 I’m looking to collaborate with other content creators and developers.
-- I'm a code freak. <img align='right' src='https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true' width='200"'>
+- I'm a code freak. <img align='right' src='https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true' width='200'>
 - 🥅 2022 Goals: 
 <ol>
   <li> Be a master of Frontend and Backend Development, and Machine Learning.
@@ -56,7 +56,7 @@
 [linkedin]: http://linkedin.com/in/kashish-jain-681983220
 [kaggle]: https://www.kaggle.com/kashish0603
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish0603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                            <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/cool.gif' width=200/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish0603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                            <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/cool.gif' width='200'/>
 <!---
 kashish0603/kashish0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
