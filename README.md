@@ -6,13 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-kashish0603&color=blue)
 
-- 🔭 BTech Fresher, Computer Science and Technology! 😀
+- 🔭 BTech, Computer Science and Technology! 😀
 - ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
 - 👯 I’m looking to collaborate with other content creators and developers.
 - I'm a code freak. <img align='right' src='https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true' width='200'>
 - 🥅 2022 Goals: 
 <ol>
-  <li> Be a master of Frontend and Backend Development, and Machine Learning.
+  <li> Be a master of Frontend and Backend Development, Machine Learning and Blockchain.
   </li>
   <li>Travel to Dubai ✈️</li>
   <li> Try to have a life 🥬</li>
