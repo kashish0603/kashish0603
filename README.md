@@ -2,7 +2,7 @@
 <h2>Welcome to my GitHub</h2>
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif' width='200'>  
 
-## I'm a Student, ML Enthusiast and Explorer!!
+## I'm a Student, ML and Blockchain Developer!!
 
 ![](https://komarev.com/ghpvc/?username=your-github-kashish0603&color=blue)
 
@@ -10,11 +10,12 @@
 - ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
 - 👯 I’m looking to collaborate with other content creators and developers.
 - I'm a code freak. <img align='right' src='https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true' width='200'>
-- 🥅 2022 Goals: 
+- 🥅 2023 Goals: 
 <ol>
-  <li> Be a master of Frontend and Backend Development, Machine Learning and Blockchain.
+  <li> Google Summer of Code
   </li>
   <li>Travel to Dubai ✈️</li>
+  <li>Leetcode streaks</li>
   <li> Try to have a life 🥬</li>
 
 
