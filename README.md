@@ -54,7 +54,7 @@
 
 [twitter]: https://twitter.com/Kashish0603
 [instagram]: https://www.instagram.com/malivore_2021/
-[linkedin]: http://linkedin.com/in/kashish-jain-681983220
+[linkedin]: https://www.linkedin.com/in/kashish-jain-681983220
 [kaggle]: https://www.kaggle.com/kashish0603
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish0603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                            <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/cool.gif' width='200'/>
