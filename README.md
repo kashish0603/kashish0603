@@ -2,20 +2,21 @@
 <h2>Welcome to my GitHub</h2>
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif' width='200'>  
 
-## I'm a Student, ML and Blockchain Developer!!
+## I'm a Machine Learning and Full Stack Developer!!
 
 ![](https://komarev.com/ghpvc/?username=your-github-kashish0603&color=blue)
 
 - 🔭 BTech, Computer Science and Technology! 😀
-- ☄️ I’m interested in Machine Learning and Artificial Intelligence. 
+- ☄️ I’m interested in Machine Learning and Artificial Intelligence.
+- 🤖 I work as a Full Stack Developer(MERN Stack and Golang). 
 - 👯 I’m looking to collaborate with other content creators and developers.
 - I'm a code freak. <img align='right' src='https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true' width='200'>
-- 🥅 2023 Goals: 
+- 🥅 2024 Goals: 
 <ol>
-  <li> Google Summer of Code
+  <li> Github streaks
   </li>
   <li>Travel to Dubai ✈️</li>
-  <li>Leetcode streaks</li>
+  <li>Placement </li>
   <li> Try to have a life 🥬</li>
 
 
@@ -25,6 +26,7 @@
 [<img align="left" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
 [<img align="left" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>][linkedin]
 [<img align="left" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png"/>][kaggle]
+[<img align="left" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>][leetcode]
 <br />
 
 ### Languages and Tools Known:
@@ -45,7 +47,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Django" width="26px" src="https://img.icons8.com/ios-filled/50/000000/django.png" />  
+<img align="left" alt="Django" width="26px" src="https://img.icons8.com/ios-filled/50/000000/django.png" />
+<img align="left" alt="Go" width="26px" src="https://img.icons8.com/ios-filled/50/000000/golang.png" />
 
 <br />
 <br />
@@ -56,6 +59,7 @@
 [instagram]: https://www.instagram.com/malivore_2021/
 [linkedin]: https://www.linkedin.com/in/kashish-jain-681983220
 [kaggle]: https://www.kaggle.com/kashish0603
+[leetcode]: https://leetcode.com/kashish0603/
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish0603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                            <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/cool.gif' width='200'/>
 <!---
